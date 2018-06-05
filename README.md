@@ -1,2 +1,1 @@
-# Polaris
-At Vanguard I was Team Captain of the Robotics Team as well as being in charge of programming the Robot for the FTC Competitions. This repository holds some of the code and notes that I saved for next years class.
+At Vanguard I was Team Captain of the Robotics Team and served as the team programmer. Our team participates in FIRRST Robotics Competition (FRC). This repository holds some of the code and notes that I saved for next years class some of the files had to be compressed to zip files to save on storage space. 
